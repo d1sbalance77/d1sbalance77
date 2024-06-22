@@ -9,7 +9,7 @@
 
 
 ### About me  
-- 🤵My full-name is Hasanov Ortiq i'm 18 years old   
+- 🤵My full-name is Hasanov Ortiq, i'm 18 years old   
   
 
 - 🌱 I’m still improving my Python and FastAPI skills
