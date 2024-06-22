@@ -28,7 +28,7 @@
 
 ### Machine Learning  
 <p align="left">
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <a href="[https://numpy.org/](https://numpy.org/doc/stable/#)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" alt="NumPy" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
